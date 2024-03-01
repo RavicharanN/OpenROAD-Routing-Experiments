@@ -1,0 +1,4 @@
+/home/ravic/Desktop/a-star/CMakeFiles/a-star.dir
+/home/ravic/Desktop/a-star/CMakeFiles/main.dir
+/home/ravic/Desktop/a-star/CMakeFiles/edit_cache.dir
+/home/ravic/Desktop/a-star/CMakeFiles/rebuild_cache.dir
