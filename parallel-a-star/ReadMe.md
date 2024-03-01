@@ -4,9 +4,9 @@ A* search algorithm written in C++ programming language.
 
 ## Parallel A* 
 
-* All experiments were on a Virtual Box with 2 cores and 3 gigs RAM
+* All experiments were on a Virtual Box with 2 cores and 3 gigs RAM and were controlled
 * To mimic the experiment we added a uniform noise while computing the cost
-* All the experiemnts wre controlled
+* To keep things consistent accross experiments we were using the same grid to compare performances 
 * Did not see as much improment as expected - machine limitations (?)
 * Alternatives for compute / bencharmking suggestions needed ?? 
 
