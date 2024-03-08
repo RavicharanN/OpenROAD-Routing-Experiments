@@ -8,6 +8,8 @@ All experiments were done in a more controleld environment:
 * No other processes running in the background
 
 
+**Baseline: Without any cost function the Sequential code on our experimental setup runs in 18ms**__
+
 Runtime (in ms) for the fixed cost func of 2ms:
 * Sequential : 1856, 1855, 1836, 1845, 1841
 * 2 Threads : 1697, 1718, 1702, 1708, 1720 
